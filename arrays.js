@@ -17,7 +17,7 @@ for (let i = 0; i < eliteCoders.length; i++){
     console.log(i + " " + eliteOrder[i]);
 }
 
-for (let i = 0; i < reallyCoolPodName; i++){
+for (let i = 0; i < reallyCoolPodName.length; i++){
     let coolBackwards = reallyCoolPodName.reverse();
     console.log(i + " " + coolBackwards[i]);
 }
